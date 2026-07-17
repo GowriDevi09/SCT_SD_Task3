@@ -58,4 +58,4 @@ The application uses the **Backtracking Algorithm**.
 
 ## Author
 
-Your Name
+T. Gowri Devi
